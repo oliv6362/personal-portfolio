@@ -11,7 +11,7 @@ const contactinfo = [
   },
   {
     icon: "mdi:map-marker",
-    text: "4700, Næstved, Denmark",
+    text: "Denmark",
   },
 ]
 
